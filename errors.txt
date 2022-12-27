@@ -1,0 +1,4 @@
+unpacking 'https://github.com/NixOS/nixpkgs/archive/a5f661b80e4c163510a5013b585a040a5c7ef55e.tar.gz'...
+error: hash mismatch in file downloaded from 'https://github.com/NixOS/nixpkgs/archive/a5f661b80e4c163510a5013b585a040a5c7ef55e.tar.gz':
+  wanted: sha256:11aqsg9b2i7psxybmbgmv2f3dq1qhdaw43iizzkcjs86iwnn871p
+  got:    sha256:0v0f5h31iqmcx61nylhn111j7r56m8lx04xllh0p4d13k2gl0hc5

@@ -1,0 +1,3 @@
+#11aqsg9b2i7psxybmbgmv2f3dq1qhdaw43iizzkcjs86iwnn871p
+
+nix-shell -p niv --run "niv init"

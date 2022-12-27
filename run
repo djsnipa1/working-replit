@@ -1,0 +1,11 @@
+## `niv`
+
+```shell
+nix-shell -p niv --run "niv init"
+```
+
+```shell
+niv add NixOS/nixpkgs -n nixpkgs -b nixpkgs-unstable
+```
+
+
